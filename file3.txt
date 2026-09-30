@@ -1,11 +1,10 @@
 Este é o exemplo de um ficheiro de texto file3
 
 
+<h2>Comidas</h2>
 
-asd
-as
-da
-d
-ad
-a
-d
+<ul>
+        <li>Bolos</li>
+        <li>Tostas</li>
+        <li>Sandes</li>
+</ul>
